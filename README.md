@@ -4,9 +4,9 @@
 
 ## 動画一覧
 
-| 動画 | 長さ | ダウンロード |
-|---|---|---|
-| 反り腰って腹筋が弱いせい？（原因・座りっぱなし・セルフチェック・ケア） | 2分01秒 | [リリースからダウンロード](https://github.com/bigwing11/kikunohana-shorts/releases/tag/sorigoshi-v8) |
+| 動画 | 長さ | 見る | ダウンロード |
+|---|---|---|---|
+| 反り腰って腹筋が弱いせい？（原因・座りっぱなし・セルフチェック・ケア） | 2分01秒 | [視聴ページ](https://bigwing11.github.io/kikunohana-shorts/) | [リリース](https://github.com/bigwing11/kikunohana-shorts/releases/tag/sorigoshi-v8) |
 
 ## クレジット
 - BGM：「昼下がり気分」by KK（OpenTracks／旧DOVA-SYNDROME）https://opentracks.com/bgm/detail/4695
