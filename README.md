@@ -8,6 +8,7 @@
 |---|---|---|---|
 | 反り腰って腹筋が弱いせい？（原因・座りっぱなし・セルフチェック・ケア） | 2分01秒 | [視聴ページ](https://bigwing11.github.io/kikunohana-shorts/) | [リリース](https://github.com/bigwing11/kikunohana-shorts/releases/tag/sorigoshi-v8) |
 | 脊柱管狭窄症と椎間板ヘルニアの違い（しくみ・つらい姿勢・見分け方・受診の目安） | 1分53秒 | ― | [リリース](https://github.com/bigwing11/kikunohana-shorts/releases/tag/kyousaku-hernia-v4) |
+| 反り腰って腹筋が弱いせい？ 作り直し版（原因・座りっぱなし・セルフチェック・ケア） | 1分56秒 | ― | [リリース](https://github.com/bigwing11/kikunohana-shorts/releases/tag/sorigoshi-v2) |
 
 ## クレジット
 - BGM：「昼下がり気分」by KK（OpenTracks／旧DOVA-SYNDROME）https://opentracks.com/bgm/detail/4695
